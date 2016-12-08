@@ -1,6 +1,6 @@
 package IdleMonGame;
 
 public interface ConversionType {
-	int getColor();
+	String getColor();
 	void convertResources(int conversionRate);
 }
