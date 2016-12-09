@@ -1,6 +1,8 @@
 package IdleMonGame;
 
 public class IdleMon {
+	//Id for this type of idlemon (basic)
+	String id;
 	//What resources are converted
 	ConversionType CT;
 	//cost of cathcing this idlemon
